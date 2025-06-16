@@ -25,4 +25,5 @@
 
 - Uji coba program computer vision yang telah dibuat dengan robot BNU V2.
 
-  ![Dokumentasi]![WhatsApp Image 2025-06-12 at 14 01 09_2450f3ac](https://github.com/user-attachments/assets/54335f9d-3ac0-4437-8f6f-82fa52a08f12)
+  ![Dokumentasi](https://github.com/user-attachments/assets/f2d98b25-a3b0-476a-9d21-a607431e3371)
+
